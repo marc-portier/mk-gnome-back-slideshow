@@ -1,0 +1,19 @@
+{
+  "name": "mk-gnome-back-slideshow",
+  "version": "0.0.0",
+  "description": "Silly small project to produce a gnome-background-xml to make slideshows on the gnome3 desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gnome",
+    "background",
+    "slideshow"
+  ],
+  "author": "Marc Portier",
+  "license": "unlicense.org",
+  "dependencies": {
+    "yargs": "^1.3.3"
+  }
+}
